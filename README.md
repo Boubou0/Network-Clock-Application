@@ -1,4 +1,4 @@
-# Time-shell
+# Network Clock Application
 This is a secure code project realized in Python during my month-long course in Prague at the Czech Technical University.
 
 ## Instruction
