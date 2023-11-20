@@ -1,1 +1,3 @@
 pip install pyprctl
+
+Put the setDate file in the /usr/bin/ folder because it is a folder that cannot be modified by a normal user if the admin system set a good work environment. By doing that, the user will no longer be able to name a script like mine and make it run by my application.
